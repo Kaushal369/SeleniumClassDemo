@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushal/eclipse-workspace/SeleniumClassDemo/commonjarFile/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
